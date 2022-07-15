@@ -7,14 +7,17 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="primeiros-passos" />
+        <module name="ioc-di-beans-autowired" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="ioc-di-beans-autowired" target="17" />
       <module name="primeiros-passos" target="17" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="ioc-di-beans-autowired" options="-parameters" />
       <module name="primeiros-passos" options="-parameters" />
     </option>
   </component>

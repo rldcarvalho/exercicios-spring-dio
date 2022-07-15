@@ -4,6 +4,7 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/primeiros-passos/pom.xml" />
+        <option value="$PROJECT_DIR$/ioc-di-beans-autowired/pom.xml" />
       </list>
     </option>
   </component>
