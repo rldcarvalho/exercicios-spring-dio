@@ -4,6 +4,7 @@
     <file url="file://$PROJECT_DIR$/ioc-di-beans-autowired/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/ioc-di-beans-autowired/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/primeiros-passos/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/properties-value/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/scopes-singleton-prototype/src/main/java" charset="UTF-8" />
   </component>
 </project>
