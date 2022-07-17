@@ -29,3 +29,9 @@ z
 Jscopes-singleton-prototype/src/main/java/dio/springboot/app/Remetente.java,3\8\38af447766b5924d3d8cb0abfde8d25ff4c10017
 v
 Fscopes-singleton-prototype/src/main/java/dio/springboot/app/Beans.java,4\b\4b2e143fa005e610ca94a25c34c3d2b37d6c9c62
+v
+Fproperties-value/src/main/java/dio/springboot/app/SistemaMensagem.java,5\e\5e422d7aad65381946280dec04419bdfae36e8cd
+@
+data-jpa/pom.xml,c\6\c657bccc43d542c785e61dfc53f7f41ec56ad986
+ƒ
+Sproperties-value/src/main/java/dio/springboot/SpringPrimeirosPassosApplication.java,a\0\a0c48f24775250a0bb41ed15e2d18a185c7ba1fe

@@ -10,6 +10,7 @@
         <option value="$PROJECT_DIR$/configuration-properties/pom.xml" />
         <option value="$PROJECT_DIR$/dio-spring-data-jpa/pom.xml" />
         <option value="$PROJECT_DIR$/data-jpa/pom.xml" />
+        <option value="$PROJECT_DIR$/dio-spring-security/pom.xml" />
       </list>
     </option>
   </component>
