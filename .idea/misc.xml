@@ -11,6 +11,8 @@
         <option value="$PROJECT_DIR$/dio-spring-data-jpa/pom.xml" />
         <option value="$PROJECT_DIR$/data-jpa/pom.xml" />
         <option value="$PROJECT_DIR$/dio-spring-security/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-web-security-configure-adapter/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-web-security-database/pom.xml" />
       </list>
     </option>
   </component>

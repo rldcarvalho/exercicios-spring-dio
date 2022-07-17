@@ -4,6 +4,8 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/data-jpa/access-control.iml" filepath="$PROJECT_DIR$/data-jpa/access-control.iml" />
       <module fileurl="file://$PROJECT_DIR$/dio-spring-security/dio-spring-security.iml" filepath="$PROJECT_DIR$/dio-spring-security/dio-spring-security.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-web-security-configure-adapter/dio-spring-security (1).iml" filepath="$PROJECT_DIR$/spring-web-security-configure-adapter/dio-spring-security (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-web-security-database/dio-spring-security (2).iml" filepath="$PROJECT_DIR$/spring-web-security-database/dio-spring-security (2).iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/exercicios-spring-dio.iml" filepath="$PROJECT_DIR$/.idea/exercicios-spring-dio.iml" />
       <module fileurl="file://$PROJECT_DIR$/ioc-di-beans-autowired/ioc-di-beans-autowired.iml" filepath="$PROJECT_DIR$/ioc-di-beans-autowired/ioc-di-beans-autowired.iml" />
       <module fileurl="file://$PROJECT_DIR$/primeiros-passos/primeiros-passos.iml" filepath="$PROJECT_DIR$/primeiros-passos/primeiros-passos.iml" />
