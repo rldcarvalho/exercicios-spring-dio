@@ -21,3 +21,11 @@ Jioc-di-beans-autowired/src/main/java/dio/springboot/app/ConversorJson.java,b\d
 Kioc-di-beans-autowired/src/main/java/dio/springboot/app/ViaCepResponse.java,b\d\bdbb9ce778075d3cb4aabf333d77388e9c9ac0f2
 ‡
 Wioc-di-beans-autowired/src/main/java/dio/springboot/IocDiBeansAutowiredApplication.java,e\e\eef65ee156735c51a02129fb83ce42634ed3f6e5
+R
+"scopes-singleton-prototype/pom.xml,c\f\cf446ac31b64090487d105e7a964f76c095e1324
+€
+Pscopes-singleton-prototype/src/main/java/dio/springboot/app/SistemaMensagem.java,8\c\8c00926735c771adf71fe1b81f52d6628612fa1e
+z
+Jscopes-singleton-prototype/src/main/java/dio/springboot/app/Remetente.java,3\8\38af447766b5924d3d8cb0abfde8d25ff4c10017
+v
+Fscopes-singleton-prototype/src/main/java/dio/springboot/app/Beans.java,4\b\4b2e143fa005e610ca94a25c34c3d2b37d6c9c62

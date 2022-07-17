@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/data-jpa/access-control.iml" filepath="$PROJECT_DIR$/data-jpa/access-control.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/exercicios-spring-dio.iml" filepath="$PROJECT_DIR$/.idea/exercicios-spring-dio.iml" />
       <module fileurl="file://$PROJECT_DIR$/ioc-di-beans-autowired/ioc-di-beans-autowired.iml" filepath="$PROJECT_DIR$/ioc-di-beans-autowired/ioc-di-beans-autowired.iml" />
       <module fileurl="file://$PROJECT_DIR$/primeiros-passos/primeiros-passos.iml" filepath="$PROJECT_DIR$/primeiros-passos/primeiros-passos.iml" />

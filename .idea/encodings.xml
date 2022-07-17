@@ -2,6 +2,8 @@
 <project version="4">
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/configuration-properties/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/data-jpa/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/data-jpa/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/ioc-di-beans-autowired/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/ioc-di-beans-autowired/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/primeiros-passos/src/main/java" charset="UTF-8" />

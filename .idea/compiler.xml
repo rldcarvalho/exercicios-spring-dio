@@ -10,10 +10,12 @@
         <module name="spring-scopes-singleton-prototype" />
         <module name="spring-configuration-properties" />
         <module name="ioc-di-beans-autowired" />
+        <module name="access-control" />
         <module name="spring-properties-value" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="access-control" target="1.8" />
       <module name="ioc-di-beans-autowired" target="17" />
       <module name="primeiros-passos" target="17" />
       <module name="spring-configuration-properties" target="1.8" />
@@ -23,6 +25,7 @@
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="access-control" options="-parameters" />
       <module name="ioc-di-beans-autowired" options="-parameters" />
       <module name="primeiros-passos" options="-parameters" />
       <module name="spring-configuration-properties" options="-parameters" />
