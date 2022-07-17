@@ -13,6 +13,7 @@
         <module name="dio-spring-security (1)" />
         <module name="spring-scopes-singleton-prototype" />
         <module name="spring-configuration-properties" />
+        <module name="dio-spring-security-jwt" />
         <module name="ioc-di-beans-autowired" />
         <module name="access-control" />
       </profile>
@@ -22,6 +23,7 @@
       <module name="dio-spring-security" target="17" />
       <module name="dio-spring-security (1)" target="1.8" />
       <module name="dio-spring-security (2)" target="1.8" />
+      <module name="dio-spring-security-jwt" target="1.8" />
       <module name="ioc-di-beans-autowired" target="17" />
       <module name="primeiros-passos" target="17" />
       <module name="spring-configuration-properties" target="1.8" />
@@ -35,6 +37,7 @@
       <module name="dio-spring-security" options="-parameters" />
       <module name="dio-spring-security (1)" options="-parameters" />
       <module name="dio-spring-security (2)" options="-parameters" />
+      <module name="dio-spring-security-jwt" options="-parameters" />
       <module name="ioc-di-beans-autowired" options="-parameters" />
       <module name="primeiros-passos" options="-parameters" />
       <module name="spring-configuration-properties" options="-parameters" />
