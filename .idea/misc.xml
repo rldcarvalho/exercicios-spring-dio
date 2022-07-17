@@ -7,6 +7,7 @@
         <option value="$PROJECT_DIR$/ioc-di-beans-autowired/pom.xml" />
         <option value="$PROJECT_DIR$/scopes-singleton-prototype/pom.xml" />
         <option value="$PROJECT_DIR$/properties-value/pom.xml" />
+        <option value="$PROJECT_DIR$/configuration-properties/pom.xml" />
       </list>
     </option>
   </component>
