@@ -35,3 +35,15 @@ Fproperties-value/src/main/java/dio/springboot/app/SistemaMensagem.java,5\e\5e4
 data-jpa/pom.xml,c\6\c657bccc43d542c785e61dfc53f7f41ec56ad986
 ƒ
 Sproperties-value/src/main/java/dio/springboot/SpringPrimeirosPassosApplication.java,a\0\a0c48f24775250a0bb41ed15e2d18a185c7ba1fe
+‰
+Ydio-spring-security/src/main/java/dio/diospringsecurity/DioSpringSecurityApplication.java,3\2\32a4d529cd8eafad57dc955b0cc53e07229177c9
+w
+Gdio-spring-security/src/main/java/dio/diospringsecurity/model/User.java,f\7\f76ddd1f7c897578360f9f142bb7bb145694c111
+‚
+Rdio-spring-security/src/main/java/dio/diospringsecurity/init/StartApplication.java,7\1\713420c8b4ba7678ff25553401ece6b58d2d29df
+‰
+Ydio-spring-security/src/main/java/dio/diospringsecurity/controller/WelcomeController.java,e\d\ed1102e1e32d54fef664ac944a8b4fb64ed3d5cb
+…
+Udio-spring-security/src/main/java/dio/diospringsecurity/config/WebSecurityConfig.java,4\c\4c122ddced4b85573348173977e12ee8325fe284
+†
+Vdio-spring-security/src/main/java/dio/diospringsecurity/repository/UserRepository.java,1\b\1b413c9b6828bef5bf20c4dd582e2e31fb769410
