@@ -1,6 +1,8 @@
 package rldcarvalho.web.api.repository;
 
 import org.springframework.stereotype.Repository;
+import rldcarvalho.web.api.handler.BusinessException;
+import rldcarvalho.web.api.handler.CampoObrigatorioException;
 import rldcarvalho.web.api.model.Usuario;
 
 import java.util.ArrayList;
@@ -10,6 +12,14 @@ import java.util.List;
 public class UsuarioRepository {
 
     public void save(Usuario usuario){
+        if(usuario.getLogin()==null){
+            throw new CampoObrigatorioException("login");
+        }
+
+        if(usuario.getPassword()==null){
+            throw new CampoObrigatorioException("password");
+        }
+
         System.out.println("SAVE - Recebendo o usuário na camada de repositório");
         System.out.println(usuario);
     }
